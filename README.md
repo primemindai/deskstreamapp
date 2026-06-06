@@ -4,10 +4,11 @@
 
 [![License: Free](https://img.shields.io/badge/License-100%25%20Free-success.svg)](#license)
 [![Platform: macOS](https://img.shields.io/badge/Platform-macOS%20(Apple%20Silicon)-lightgrey.svg)](#installation)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg?style=flat&labelColor=555555&color=0078D4&logo=windows&logoColor=white)](#installation) *(Coming Soon)*
 [![Privacy: Local](https://img.shields.io/badge/Privacy-Local_First-blue.svg)](#privacy-architecture)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](#status)
 
-DeskStream silently maps your macOS desktop activity entirely locally, giving your AI the perfect context to understand your workflows, report on your productivity, and automate the mundane. 
+DeskStream silently maps your desktop activity entirely locally, giving your AI the perfect context to understand your workflows, report on your productivity, and automate the mundane. 
 
 Created by **PrimeMind AI**.
 
@@ -51,11 +52,11 @@ Control exactly what the AI sees. Easily toggle specific data streams on or off:
 ### Installation
 *(Instructions for downloading the latest `.dmg` or installing via Homebrew will be updated upon final stable release).*
 
-Download the latest verified build from the [PrimeMind AI Release Page](https://primemindai.com/).
+Download the latest verified macOS build from the [PrimeMind AI Release Page](https://primemindai.com/).
 
 ### System Requirements
-* **OS:** macOS 12.0 or later
-* **Architecture:** Optimized for Apple Silicon (M-Series) for seamless background operation alongside local model inference.
+* **macOS:** macOS 12.0 or later (Optimized for Apple Silicon M-Series for seamless background operation alongside local model inference).
+* **Windows:** *In active development. Coming soon.*
 
 ---
 
